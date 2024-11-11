@@ -1,0 +1,13 @@
+# Virtuális környezetek
+venv/
+.env/
+__pycache__/
+
+# Cache és log fájlok
+*.pyc
+*.pyo
+*.log
+
+# IDE és rendszerfájlok
+.vscode/
+.DS_Store
